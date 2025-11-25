@@ -16,7 +16,7 @@
       <!-- ABOUT -->
       <h2 style="color:#c59cff;">🌙 <b>About Me</b></h2>
       <ul>
-        <li><b>🔭 Building Forensic-ML –</b> an AI system for crime case pattern linking</li>
+        <li><b>🔭 Building  –</b> Forensic-ML an AI system for crime case pattern linking</li>
         <li><b>🌱 Learning -</b> Machine Learning · MERN · Optimization · Cloud</li>
         <li><b>💬 Ask me about -</b>  Python, ML models, APIs, Databases</li>
         <li><b>📫 Reach me at:</b> www.abirami10a2006@gmail.com</li>
