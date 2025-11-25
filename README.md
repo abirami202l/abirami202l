@@ -74,9 +74,7 @@ AI system that detects links between crime cases by analysing:
 
 ## 🌐 <b>Connect with Me</b>
 <p>
-  <a href="www.linkedin.com/in/
-abiramisenthilkumar2023/
-"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a>
+  <a href="www.linkedin.com/in/abiramisenthilkumar2023/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a>
 </p>
 
 ---
